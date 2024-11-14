@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [ashaychangwani.com/resume](https://ashaychangwani.com/resume)
 
-- ⚡ Fun fact **I once learned React Native and recreated a card game (Coup) on an overnight flight because I forgot to pack the deck**
+- ⚡ Fun fact **I once learned enough React Native to recreate a card game (Coup) on an overnight flight because I forgot to pack my Steam Deck**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
