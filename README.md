@@ -26,9 +26,7 @@ I write software so I don't have to click things. Currently at **Palo Alto Netwo
 ---
 
 <div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=ashaychangwani&theme=dark&hide_border=true" alt="GitHub Streak" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashaychangwani&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ashaychangwani&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <br/>
