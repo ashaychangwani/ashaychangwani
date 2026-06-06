@@ -1,32 +1,51 @@
-# Ashay Changwani
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+tools+for+AI+agents;Creator+of+imprint+%26+Prospify;I+automate+the+annoying+parts;Sr+Staff+%40+Palo+Alto+Networks" alt="Typing SVG" />
+</div>
 
-Building tools that automate the parts of software that should already be automated.
+<br/>
 
-SWE at Palo Alto Networks. Serial hackathon winner. I write scripts so I don't have to click things.
+I write software so I don't have to click things. Currently at **Palo Alto Networks** — threat intelligence platforms, streaming pipelines, LLM-powered tooling.
 
 ---
 
 ## Projects
 
-**[imprint](https://github.com/ashaychangwani/imprint)** — Record a browser workflow once, get a deterministic MCP tool your AI agent can call. Zero tokens at runtime. Postman for AI agents.
-
-**[Prospify](https://prospify.app)** — Your credit cards finally make sense together. Finds the right card for every purchase across your whole wallet.
-
----
-
-## Work
-
-- Threat intelligence platform, streaming data pipelines, LLM-powered tooling — Palo Alto Networks
-- Browser automation, reverse-engineered APIs, booking systems that run while I sleep
+| | |
+|---|---|
+| **[imprint](https://github.com/ashaychangwani/imprint)** | Record a browser workflow once, get a deterministic MCP tool your AI agent can call. Zero tokens at runtime. *Postman for AI agents.* |
+| **[Prospify](https://prospify.app)** | Calculates your real spend after perks, credits, and rewards across every card you own. *Your cards finally make sense together.* |
 
 ---
 
 ## Stack
 
-TypeScript / Python / Kotlin — Bun, Playwright, MCP, FastAPI, Temporal — GCP, Kubernetes, Kafka, Spanner
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**Tooling**  
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
+
+**Infra**  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Spanner](https://img.shields.io/badge/Cloud+Spanner-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ---
 
-## Elsewhere
+<div align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=ashaychangwani&theme=dark&hide_border=true" alt="GitHub Streak" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashaychangwani&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
 
-[LinkedIn](https://linkedin.com/in/ashaychangwani) · [prospify.app](https://prospify.app)
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/ashaychangwani">LinkedIn</a> · <a href="https://prospify.app">prospify.app</a>
+</div>
