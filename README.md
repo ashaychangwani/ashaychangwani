@@ -8,16 +8,16 @@ I write software so I don't have to click things. Currently at **Palo Alto Netwo
 
 ---
 
-## Projects
+## Flagship Projects
 
 <table>
   <tr>
-    <td width="140" valign="top"><a href="https://github.com/ashaychangwani/imprint"><b>imprint</b></a></td>
-    <td>Record a browser workflow once, get a deterministic MCP tool your AI agent can call. Zero tokens at runtime. <i>Postman for AI agents.</i></td>
+    <td width="140" valign="top"><a href="https://imprint.wtf"><b>imprint</b></a></td>
+    <td>Record a browser workflow once, get a deterministic MCP tool your AI agent can call. Zero tokens at runtime. <i>Postman for AI agents.</i><br/><a href="https://imprint.wtf">imprint.wtf</a> · <a href="https://github.com/ashaychangwani/imprint">GitHub</a></td>
   </tr>
   <tr>
     <td width="140" valign="top"><a href="https://prospify.app"><b>Prospify</b></a></td>
-    <td>Calculates your real spend after perks, credits, and rewards across every card you own. <i>Your cards finally make sense together.</i></td>
+    <td>Calculates your real spend after perks, credits, and rewards across every card you own. <i>Your cards finally make sense together.</i><br/><a href="https://prospify.app">prospify.app</a></td>
   </tr>
 </table>
 
@@ -48,5 +48,5 @@ I write software so I don't have to click things. Currently at **Palo Alto Netwo
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/ashaychangwani">LinkedIn</a> · <a href="https://prospify.app">prospify.app</a>
+  <a href="https://linkedin.com/in/ashaychangwani">LinkedIn</a> · <a href="https://prospify.app">prospify.app</a> · <a href="https://imprint.wtf">imprint.wtf</a>
 </div>
