@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="320" viewBox="0 0 700 320" role="img" aria-labelledby="title desc">
+  <title id="title">Ashay Changwani — terminal status</title>
+  <desc id="desc">Building tools for AI agents. Creator of imprint and Prospify. Automating the annoying parts. Sr Staff at Palo Alto Networks.</desc>
+  <style>
+    .panel { fill: #0d1117; stroke: #30363d; }
+    .bar { fill: #161b22; }
+    .divider { stroke: #30363d; }
+    text { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; fill: #e6edf3; font-size: 16px; }
+    .muted { fill: #9ba8b6; }
+    .accent { fill: #58a6ff; }
+    .success { fill: #7ee787; }
+    .dot { fill: #6e7681; }
+    .row { animation: reveal .6s ease both; }
+    .two { animation-delay: .12s; }
+    .three { animation-delay: .24s; }
+    .four { animation-delay: .36s; }
+    .cursor { animation: blink 1.2s step-end infinite; }
+    @keyframes reveal { from { opacity: 1; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-color-scheme: light) {
+      .panel { fill: #f6f8fa; stroke: #d1d9e0; }
+      .bar { fill: #eaeef2; }
+      .divider { stroke: #d1d9e0; }
+      text { fill: #1f2328; }
+      .muted { fill: #59636e; }
+      .accent { fill: #0969da; }
+      .success { fill: #187033; }
+    }
+    @media (prefers-reduced-motion: reduce) { .row, .cursor { animation: none; } }
+  </style>
+  <defs><clipPath id="window"><rect x="1" y="1" width="698" height="318" rx="12"/></clipPath></defs>
+  <rect class="panel" x="1" y="1" width="698" height="318" rx="12"/>
+  <path class="bar" clip-path="url(#window)" d="M1 1h698v42H1z"/>
+  <path class="divider" d="M1 43h698"/>
+  <g class="dot"><circle cx="24" cy="22" r="4"/><circle cx="40" cy="22" r="4"/><circle cx="56" cy="22" r="4"/></g>
+  <text class="muted" x="350" y="27" text-anchor="middle" style="font-size:12px">ashay@github ~</text>
+  <text class="accent" x="30" y="84">❯</text>
+  <text x="52" y="84">whoami</text>
+  <rect class="accent cursor" x="119" y="70" width="8" height="17" rx="1"/>
+  <text x="30" y="127" style="font-size:27px;font-weight:700;letter-spacing:-1px">Ashay Changwani</text>
+  <g class="row"><text class="success" x="32" y="172">✓</text><text class="muted" x="60" y="172">building</text><text x="166" y="172">Tools for AI agents</text></g>
+  <g class="row two"><text class="success" x="32" y="208">✓</text><text class="muted" x="60" y="208">created</text><text x="166" y="208">imprint &amp; Prospify</text></g>
+  <g class="row three"><text class="success" x="32" y="244">✓</text><text class="muted" x="60" y="244">mission</text><text x="166" y="244">Automate the annoying parts</text></g>
+  <g class="row four"><text class="success" x="32" y="280">✓</text><text class="muted" x="60" y="280">role</text><text x="166" y="280">Sr Staff @ Palo Alto Networks</text></g>
+</svg>

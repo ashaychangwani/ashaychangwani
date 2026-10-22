@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+tools+for+AI+agents;Creator+of+imprint+%26+Prospify;I+automate+the+annoying+parts;Sr+Staff+%40+Palo+Alto+Networks" alt="Typing SVG" />
+  <img src="assets/terminal-status.svg" width="700" alt="Ashay Changwani — building tools for AI agents; creator of imprint and Prospify; automating the annoying parts; Sr Staff at Palo Alto Networks." />
 </div>
 
 <br/>
